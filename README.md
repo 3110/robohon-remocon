@@ -1,5 +1,7 @@
 # ロボホンリモコンアプリ
 
+<a href="/images/robohon-remocon.png"><img src="/images/robohon-remocon.png" width=800></a>
+
 ロボホンがスマートリモコンNature Remoと連携して家電を操作するロブリックアプリケーションです。ロボホンに話しかけることで，リモコンの赤外線信号の登録・削除・送信ができます。
 
 ## 必要なもの
